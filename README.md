@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/moezkh2/moezkh2/assets/17712659/5c8d569a-0ef4-49e2-920a-84faa10ff417" >
+</p>
 <h1 align="center">Hi 👋, I'm Moez</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
