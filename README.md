@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/moezkh2/moezkh2/assets/17712659/5c8d569a-0ef4-49e2-920a-84faa10ff417" >
+<img src="https://github.com/moezkh2/moezkh2/assets/17712659/bce9b8cc-5fe8-4440-8a95-bc6f031ed173" >
 </p>
 <h1 align="center">Hi 👋, I'm Moez</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khorchani moez eddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorchani moez eddine" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/khorchani-moez-eddine-6b182412a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorchani moez eddine" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khorchani_moez_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khorchani_moez_1" height="30" width="40" /></a>
 </p>
 
