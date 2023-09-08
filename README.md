@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/khorchani-moez-eddine-6b182412a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorchani moez eddine" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/khorchani-moez-eddine-6b182412a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorchani moez eddine" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khorchani_moez_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khorchani_moez_1" height="30" width="40" /></a>
 </p>
 
